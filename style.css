@@ -1,0 +1,14 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#canvasLOL {
+    background-color: #ff80bf;
+}
+
+h1 {
+    margin: 10vh 0;
+}
